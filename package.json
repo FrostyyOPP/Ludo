@@ -1,0 +1,16 @@
+{
+  "name": "ludo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://FrostyyOPP.github.io/Ludo",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
